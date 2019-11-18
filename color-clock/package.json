@@ -4,7 +4,7 @@
   "description": "clock app",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo 'Hello World!'"
   },
   "author": "",
   "license": "ISC"
